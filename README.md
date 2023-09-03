@@ -56,7 +56,7 @@ Trivia Game
 
 
 ## Video Demo
-Click [here](https://youtu.be/B_yrPtHfs3U) to watch our demo video.
+Click [here](https://www.youtube.com/watch?v=baUdxnhZqsU&t=53s) to watch our demo video.
 
 ## License
 This repository is licensed under the MIT license. See the [LICENSE](https://github.com/poojaramnaney/FinEdge/blob/main/LICENSE) file for more information.
